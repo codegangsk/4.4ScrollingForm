@@ -4,7 +4,7 @@
 //
 //  Created by Sophie Kim on 2020/09/07.
 //  Copyright © 2020 Sophie Kim. All rights reserved.
-//
+
 
 import UIKit
 
@@ -14,7 +14,5 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
 }
 
