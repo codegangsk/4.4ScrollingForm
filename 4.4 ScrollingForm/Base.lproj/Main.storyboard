@@ -235,6 +235,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="x1U-ib-Kml"/>
                     </view>
+                    <connections>
+                        <outlet property="scrollView" destination="qOn-6V-mj4" id="gJR-AU-M0i"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
